@@ -1,0 +1,7 @@
+name: ex3_example
+version: 0.0.1
+author: Thomas Chabot <thomas.chabot.1@ulaval.com>
+description: pour répondre aux question 2.1. et 2.2
+dependencies:
+  exo3:
+     git: git://github.com/Chabot54321/exo3.git
