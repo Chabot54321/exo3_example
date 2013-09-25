@@ -1,0 +1,9 @@
+ex03 example
+
+0.5/1
+
+.gitignore ?
+
+README.md: votre nom, nom du cours 
+
+supprimer bin/README.md
